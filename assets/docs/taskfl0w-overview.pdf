@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1224 >>
+stream
+BT
+/F2 25 Tf
+54 728 Td
+(TaskFl0w) Tj
+/F1 11 Tf
+0 -24 Td
+(A short project overview) Tj
+/F2 14 Tf
+0 -42 Td
+(About the project) Tj
+/F1 11 Tf
+0 -20 Td
+(TaskFl0w is a collaborative web application focused on organizing tasks) Tj
+0 -16 Td
+(and helping users keep track of work and progress.) Tj
+/F2 14 Tf
+0 -38 Td
+(What it helps with) Tj
+/F1 11 Tf
+0 -20 Td
+(- Keep tasks and work items organized.) Tj
+0 -17 Td
+(- Review what is planned and follow progress.) Tj
+0 -17 Td
+(- Give collaborators a shared place to coordinate work.) Tj
+/F2 14 Tf
+0 -39 Td
+(Project link) Tj
+/F1 11 Tf
+0 -20 Td
+(Visit the TaskFl0w web application:) Tj
+0 -17 Td
+(https://taskfl0w.page.gd/index.php) Tj
+/F2 14 Tf
+0 -39 Td
+(Project note) Tj
+/F1 11 Tf
+0 -20 Td
+(This overview is a brief introduction based on the project description.) Tj
+0 -16 Td
+(For current features, usage instructions, and technical details, refer to) Tj
+0 -16 Td
+(the live application or its project repository.) Tj
+/F1 9 Tf
+0 -76 Td
+(TaskFl0w | Project overview) Tj
+ET
+endstream
+endobj
+trailer
+<< /Root 1 0 R /Size 7 >>
+startxref
+0
+%%EOF
